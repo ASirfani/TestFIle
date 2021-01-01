@@ -1,4 +1,4 @@
-//banck acount
+//banck acount is
 public class BankAccount {
 
 	private int accountNumber;
